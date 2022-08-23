@@ -1,0 +1,92 @@
+body { 
+    background-color: white;
+    margin: 0px;
+    padding: 0px;
+    border: 0px;
+}
+.perfume{
+    background-color:  hsl(30, 38%, 92%);
+    width: 2000px;
+    height: 800px;
+    display: flex;
+}
+.card{
+    background-color: hsl(30, 38%, 92%);
+    position: relative;
+    top: 300px;
+    width: 235px;
+    height: 300px;
+    margin-left: 450px;
+}
+
+.image{
+    width: 235px;
+    height: 360px;
+    border-radius: 16px 0px 0px 16px;
+}
+.content{
+    width: 235px;
+    height: 360px;
+    position: relative;
+    top: 300px;
+    background-color: white;
+    border-radius: 0px 16px 16px 0px;
+}
+.spanish{
+    font-weight: bold;
+    font-size: 25px;
+    font-family: 'Montserrat', sans-serif;
+    padding-left: 20px;
+    padding-right: 30px;
+}
+h1{
+    letter-spacing: 4px;
+    font-size: 10px;
+    font-weight: lighter;
+    font-display: ;
+    font-family: 'Montserrat', sans-serif;
+    padding-left: 20px;
+}
+p{
+    font-size: 12px;
+    font-family: 'montserrat', sans-serif;
+    padding-left: 20px;
+    padding-right: 30px;
+    padding-bottom: 1%;
+}
+h3{
+    display: flex;
+    color: green;
+    font-size: 28px;
+    font-family: 'montserrat', sans-serif;
+    padding-left: 20px;
+}
+#up{
+    color: black;
+    text-decoration: line-through;
+    font-size: 10px;
+    font-weight: lighter;
+    padding-top: 5%;
+    padding-left: 3%;
+  }
+.cart-box{
+    width: 190px;
+    height: 36px;
+    background-color: rgb(55, 87, 55);
+    color: white;
+    border-color: rgb(55, 87, 55);
+    margin-top: -30px;
+    margin-left: 20px;
+    border-radius: 5px;
+}
+h5{
+    font-size: 8px;
+    font-family: 'Fraunces', serif;
+    margin-top: -42px;
+    margin-left: 64px;
+}
+.icon{
+    height: 12px;
+    margin-top: 10px;
+    margin-left: 45px;
+}
